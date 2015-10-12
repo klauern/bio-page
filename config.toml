@@ -2,7 +2,7 @@ baseurl = "http://www.nickklauer.info"
 languageCode = "en-us"
 title = "Nick Klauer"
 [params]
-    description = "Fusion Middleware Admin while developing on the side"
+    description = "Coding, Parenting, Husbanding, Living, Soldiering On"
     googleAnalytics = "UA-27148269-1"
 
 [[params.social]]
