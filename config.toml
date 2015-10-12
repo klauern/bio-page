@@ -1,8 +1,9 @@
-baseurl = "http://blog.nickklauer.info"
+baseurl = "http://www.nickklauer.info"
 languageCode = "en-us"
 title = "Nick Klauer"
 [params]
-    description = "Learning Fusion Middleware while developing on the side"
+    description = "Fusion Middleware Admin while developing on the side"
+    googleAnalytics = "UA-27148269-1"
 
 [[params.social]]
     title = "coding"
