@@ -1,0 +1,26 @@
+baseurl = "http://blog.nickklauer.info"
+languageCode = "en-us"
+title = "Nick Klauer"
+[params]
+    description = "Learning Fusion Middleware while developing on the side"
+
+[[params.social]]
+    title = "coding"
+    icon = "github"
+    url = "https://github.com/klauern"
+[[params.social]]
+    title = "musing"
+    icon = "twitter"
+    url = "https://twitter.com/klauern"
+[[params.social]]
+    title = "rambling"
+    icon = "wordpress"
+    url = "http://blog.nickklauer.info"
+[[params.social]]
+    title = "glad-handing"
+    icon = "linkedin"
+    url = "https://linkedin.com/nick.klauer"
+[[params.social]]
+    title = "lecturing"
+    icon = "envelope-o"
+    url = "mailto:klauer@gmail.com"
