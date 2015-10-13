@@ -4,10 +4,10 @@ draft = false
 title = "About Me"
 +++
 
-I am a software developer and general Administrator of the Oracle Fusion Middleware
-product suite.  Having a background in Software Engineering from the University
-of Wisconsin -- Platteville, I have always had a keen eye on performance,
-brevity, and simplicity in design.
+I am a software developer and System Administrator of an Oracle Fusion Middleware
+product suite at a regional utility company.  Having a background in Software
+Engineering from the University of Wisconsin -- Platteville, I have always had a
+keen eye on performance, brevity, and simplicity in design.
 
 A second, more modest career is in being an active member of the United States
 Army - Reserve component, where I drill regularly.  I don't do it for technical
