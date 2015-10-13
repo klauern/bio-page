@@ -1,0 +1,3 @@
+[submodule "themes/klauern-landing-page-hugo"]
+	path = themes/klauern-landing-page-hugo
+	url = https://github.com/klauern/landing-page-hugo.git
