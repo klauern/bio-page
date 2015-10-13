@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abouts on Nick Klauer</title>
-    <link>http://www.nickklauer.info/about/</link>
+    <link>http://bio.nickklauer.info/about/</link>
     <description>Recent content in Abouts on Nick Klauer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 12 Oct 2015 17:57:19 -0500</lastBuildDate>
-    <atom:link href="http://www.nickklauer.info/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://bio.nickklauer.info/about/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>About Me</title>
-      <link>http://www.nickklauer.info/about/about/</link>
+      <link>http://bio.nickklauer.info/about/about/</link>
       <pubDate>Mon, 12 Oct 2015 17:57:19 -0500</pubDate>
       
-      <guid>http://www.nickklauer.info/about/about/</guid>
+      <guid>http://bio.nickklauer.info/about/about/</guid>
       <description>&lt;p&gt;I am a software developer and general Administrator of the Oracle Fusion Middleware
 product suite.  Having a background in Software Engineering from the University
 of Wisconsin &amp;ndash; Platteville, I have always had a keen eye on performance,
