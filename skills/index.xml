@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Skills on Nick Klauer</title>
+    <link>http://www.nickklauer.info/skills/</link>
+    <description>Recent content in Skills on Nick Klauer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Oct 2015 18:08:27 -0500</lastBuildDate>
+    <atom:link href="http://www.nickklauer.info/skills/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Coding / Languages</title>
+      <link>http://www.nickklauer.info/skills/coding/</link>
+      <pubDate>Mon, 12 Oct 2015 18:08:27 -0500</pubDate>
+      
+      <guid>http://www.nickklauer.info/skills/coding/</guid>
+      <description>&lt;p&gt;Unfortunately, there&amp;rsquo;s a lot of code I cannot share due to restrictions from
+previous employers and whatnot, but I do still code on the side any projects
+that I find would probably be better served in the public space.  If you look at
+my current &lt;a href=&#34;https://github.com/klauern?tab=repositories&#34;&gt;Github Repo&lt;/a&gt;, I have
+a number of languages I&amp;rsquo;ve written code for.  I&amp;rsquo;m no expert, but languages don&amp;rsquo;t
+really freak me out the way they used to.  I&amp;rsquo;ve written code in at least the
+following languages:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/search?utf8=%E2%9C%93&amp;amp;q=user%3Aklauern+language%3AClojure&amp;amp;type=Repositories&amp;amp;ref=searchresults&#34;&gt;Clojure&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/search?utf8=%E2%9C%93&amp;amp;q=user%3Aklauern+language%3AGo&amp;amp;type=Repositories&amp;amp;ref=advsearch&amp;amp;l=Go&amp;amp;l=&#34;&gt;Golang&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/search?utf8=%E2%9C%93&amp;amp;q=user%3Aklauern+language%3ARuby&amp;amp;type=Repositories&amp;amp;ref=searchresults&#34;&gt;Ruby&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/search?utf8=%E2%9C%93&amp;amp;q=user%3Aklauern+language%3ARuby&amp;amp;type=Repositories&amp;amp;ref=searchresults&#34;&gt;Java 6 / 7 &lt;/a&gt;(haven&amp;rsquo;t dabbled in Java 8&amp;rsquo;s newest stuff&amp;hellip;yet)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Anyways, life is short, so this is merely what I have free time to contribute to
+when I&amp;rsquo;m not otherwise occupied saving the world (Army), my family (4 kids under
+10), or working.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ansible</title>
+      <link>http://www.nickklauer.info/skills/ansible/</link>
+      <pubDate>Mon, 12 Oct 2015 17:31:20 -0500</pubDate>
+      
+      <guid>http://www.nickklauer.info/skills/ansible/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m a big fan of &lt;a href=&#34;http://ansible.com&#34;&gt;Ansible&lt;/a&gt; and have been using it in earnest
+to manage my Fusion Middleware installation for quite a bit of work.&lt;/p&gt;
+
+&lt;p&gt;Some of the things I&amp;rsquo;ve used Ansible for:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Rolling server restart&lt;/li&gt;
+&lt;li&gt;Patching WLS itself using the &lt;code&gt;bsu.sh&lt;/code&gt; script&lt;/li&gt;
+&lt;li&gt;Inventorying dozens of clusters at once for various Patch ID&amp;rsquo;s&lt;/li&gt;
+&lt;li&gt;Wrote a &lt;code&gt;sudo_action.py&lt;/code&gt; to get around limitations with privileged method chaining (see
+&lt;a href=&#34;http://docs.ansible.com/ansible/become.html#sudo-and-su-still-work&#34;&gt;the second and third notes&lt;/a&gt; for details
+on this limitation)&lt;/li&gt;
+&lt;li&gt;BTM transaction migration, management, cleanup&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Plus all the normal things you expect someone familiar with Ansbile to be able
+to do.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>System Administration of WebLogic and Fusion Middleware</title>
+      <link>http://www.nickklauer.info/skills/sysadmin/</link>
+      <pubDate>Wed, 07 Oct 2015 19:56:34 -0500</pubDate>
+      
+      <guid>http://www.nickklauer.info/skills/sysadmin/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve been working with Oracle&amp;rsquo;s Fusion Middleware Suite for about two years now.
+In that time, I&amp;rsquo;ve learned quite a bit about the following:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Weblogic Server 11g (10.3.6.*)
+
+&lt;ul&gt;
+&lt;li&gt;NodeManager&lt;/li&gt;
+&lt;li&gt;WebLogic Scripting Tool (WLST)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Service Bus 11g (OSB)&lt;/li&gt;
+&lt;li&gt;SOA Suite 11g (SOA)&lt;/li&gt;
+&lt;li&gt;Business Transaction Management 12c (BTM)&lt;/li&gt;
+&lt;li&gt;Oracle Enterprise Manager Cloud Control 12c (OEMCC)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If you have a question about the toolset, developing in it, maintaining it, or
+otherwise trying to get something going with that, feel free to reach out.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
