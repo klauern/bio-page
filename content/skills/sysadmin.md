@@ -2,7 +2,7 @@
 date = "2015-10-07T19:56:34-05:00"
 draft = false
 title = "System Administration of WebLogic and Fusion Middleware"
-Img = "O_FM_SOASuite_square.gif"
+Img = "6148871513_6b045c43ab_z.jpg"
 Category = "Skills"
 +++
 
