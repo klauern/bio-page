@@ -8,7 +8,7 @@ git add -A
 
 # Commit changes.
 msg="rebuilding site `date`"
-git commit -m "$msg"
+git commit -m "rebuilding site 
 
 # Push source and build repos.
 git push origin master
