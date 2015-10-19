@@ -7,8 +7,7 @@ hugo -t "klauern-landing-page-hugo"
 git add -A
 
 # Commit changes.
-msg="rebuilding site `date`"
-git commit -m "rebuilding site 
+git commit -m "rebuilding site on $(date)"
 
 # Push source and build repos.
 git push origin master
