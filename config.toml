@@ -15,7 +15,7 @@ title = "Nick Klauer"
     url = "https://twitter.com/klauern"
 [[params.social]]
     title = "rambling"
-    icon = "wordpress"
+    icon = "rss-square"
     url = "http://blog.nickklauer.info"
 [[params.social]]
     title = "glad-handing"
