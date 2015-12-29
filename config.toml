@@ -25,3 +25,7 @@ title = "Nick Klauer"
     title = "lecturing"
     icon = "envelope-o"
     url = "mailto:klauer@gmail.com"
+[[params.social]]
+    title = "credentialing"
+    icon = "file-text"
+    url = "https://docs.google.com/document/d/1EY-DBSnOZzoKiLArBvkevnfWCGHOKFzKytm1BL0NhJs/pub?embedded=true"
