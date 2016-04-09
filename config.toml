@@ -2,7 +2,7 @@ baseurl = "http://bio.nickklauer.info"
 languageCode = "en-us"
 title = "Nick Klauer"
 [params]
-    description = "Coding, Parenting, Husbanding, Living, Soldiering On"
+    description = ""
     googleAnalytics = "UA-27148269-1"
 
 [[params.social]]
