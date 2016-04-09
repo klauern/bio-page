@@ -1,4 +1,4 @@
-baseurl = "http://bio.nickklauer.info"
+baseurl = "https://www.nickklauer.info"
 languageCode = "en-us"
 title = "Nick Klauer"
 [params]
@@ -16,7 +16,7 @@ title = "Nick Klauer"
 [[params.social]]
     title = "rambling"
     icon = "rss-square"
-    url = "http://blog.nickklauer.info"
+    url = "https://blog.nickklauer.info"
 [[params.social]]
     title = "glad-handing"
     icon = "linkedin"
