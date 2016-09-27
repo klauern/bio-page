@@ -12,6 +12,7 @@ In that time, I've learned quite a bit about the following:
 * Weblogic Server 11g (10.3.6.*)
     * NodeManager
     * WebLogic Scripting Tool (WLST)
+* Fusion Middleware 12c (WebLogic Server)
 * Service Bus 11g (OSB)
 * SOA Suite 11g (SOA)
 * Business Transaction Management 12c (BTM)
