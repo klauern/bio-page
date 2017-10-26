@@ -1,11 +1,11 @@
 backend:
-  name: git-gateway
+  name: github
   repo: klauern/bio-page
   branch: master
 
 publish_mode: editorial_workflow
-media_folder: "static/img"
-public_folder: "/img"
+media_folder: "static/img/uploads"
+public_folder: "/img/uploads"
 
 collections:
   - name: "skills" # used in routes, e.g. /admin/collections/blog
