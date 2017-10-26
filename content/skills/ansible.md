@@ -1,10 +1,10 @@
-+++
-date = "2015-10-12T17:31:20-05:00"
-draft = false
-title = "Ansible"
-Img = "ansible-logo.png"
-Category = "Skills"
-+++
+---
+date: "2015-10-12T17:31:20-05:00"
+draft: false
+title: "Ansible"
+Img: "ansible-logo.png"
+Category: "Skills"
+---
 
 I'm a big fan of [Ansible](http://ansible.com) and have been using it in earnest
 to manage my Fusion Middleware installation for quite a bit of work.
