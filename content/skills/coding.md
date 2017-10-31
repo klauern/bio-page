@@ -15,7 +15,7 @@ really freak me out the way they used to.  I've written code in at least the
 following languages:
 
 * Python 3.x
-* [Java 6 / 7 ](https://github.com/search?utf8=%E2%9C%93&q=user%3Aklauern+language%3ARuby&type=Repositories&ref=searchresults)(haven't dabbled in Java 8's newest stuff...yet)
+* [Java](https://github.com/search?utf8=%E2%9C%93&q=user%3Aklauern+language%3ARuby&type=Repositories&ref=searchresults)
 * [Golang](https://github.com/search?utf8=%E2%9C%93&q=user%3Aklauern+language%3AGo&type=Repositories&ref=advsearch&l=Go&l=)
 * [Clojure](https://github.com/search?utf8=%E2%9C%93&q=user%3Aklauern+language%3AClojure&type=Repositories&ref=searchresults)
 * [Ruby](https://github.com/search?utf8=%E2%9C%93&q=user%3Aklauern+language%3ARuby&type=Repositories&ref=searchresults)
