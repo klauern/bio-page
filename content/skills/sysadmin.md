@@ -17,6 +17,8 @@ In that time, I've learned quite a bit about the following:
 * SOA Suite 11g (SOA)
 * Business Transaction Management 12c (BTM)
 * Oracle Enterprise Manager Cloud Control (OEMCC)
+* Oracle API Gateway
+* Nexus Repository Manager (including auto-upgrades through Ansible)
 
 
 If you have a question about the toolset, developing in it, maintaining it, or
