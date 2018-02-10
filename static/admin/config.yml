@@ -1,6 +1,5 @@
 backend:
-  name: github
-  repo: klauern/bio-page
+  name: git-gateway
   branch: master
 
 publish_mode: editorial_workflow
