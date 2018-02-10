@@ -16,19 +16,19 @@ part of my interest in pushing DevOps as a culture and set of practices forward 
 Some of the things I've used Ansible for:
 
 * Complete deployment of a Fusion Middleware 12c domain from bare-server to fully deployed
-  - Includes SSL (not self-signed or demo certs),
-  - LDAP authentication,
-  - RBAC,
+  * Includes SSL (not self-signed or demo certs),
+  * LDAP authentication,
+  * RBAC,
 * Rolling, zero-downtime server restarts
 * Zero downtime patching 11g WLS servers (`bsu.sh`)
 * Module development
-  - Wrote a `sudo_action.py` to get around limitations with privileged method chaining (see
+  * Wrote a `sudo_action.py` to get around limitations with privileged method chaining (see
     [the second and third notes](http://docs.ansible.com/ansible/become.html#sudo-and-su-still-work) for details
     on this limitation)
-  - `oracle_inventory` and `oracle_registry` to parse and provide details on the inventories of the servers
+  * `oracle_inventory` and `oracle_registry` to parse and provide details on the inventories of the servers
     themselves.
-  - `node_number` - for simple management of getting an arbitrary number from a cluster of servers
-  - `oracle_inventory` - to parse out locations of various Oracle-branded `/etc/oraInventory/`-based `XML` files.
+  * `node_number` - for simple management of getting an arbitrary number from a cluster of servers
+  * `oracle_inventory` - to parse out locations of various Oracle-branded `/etc/oraInventory/`-based `XML` files.
 * API transaction migration, management, cleanup
 
 Plus all the /normal/ things you expect someone familiar with Ansbile to be able to do.
