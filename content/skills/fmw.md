@@ -17,7 +17,7 @@ In that time, I've learned quite a bit about the following:
 - Service Bus 11g (OSB)
 - SOA Suite 11g (SOA)
 - Business Transaction Management 12c (BTM)
-- Oracle Enterprise Manager Cloud Control (OEMCC)
+- Oracle Enterprise Manager Cloud Control (OEMCC) 12c/13c
 - Oracle API Gateway
 - Nexus Repository Manager (including auto-upgrades through Ansible)
 
