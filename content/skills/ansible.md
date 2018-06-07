@@ -4,6 +4,7 @@ draft: false
 title: "Ansible"
 Img: "ansible-logo.png"
 Category: "Skills"
+layout: skills
 ---
 
 I would say I spend most of my time working in either Ansible for server management, patching,
