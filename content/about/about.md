@@ -23,7 +23,7 @@ always had a huge interest in automating out everything with an eye towards
 performance, code brevity, and simplicity in design.
 
 A second, more modest career is in being an active, drilling member of the
-United States Army -- Reserve. I "[drill][2]" there monthly, so while not
+United States Army Reserves. I "[drill][2]" there monthly, so while not
 working on servers, DevOps, automation or tooling at work, I'm generally
 helping other Soldiers get trained and maintain readiness to be deployed at a
 moment's notice. I don't do this for technical skills, money, or prestige.
