@@ -3,8 +3,8 @@ backend:
   branch: master
 
 publish_mode: editorial_workflow
-media_folder: "static/img/uploads"
-public_folder: "/img/uploads"
+media_folder: "static/img"
+public_folder: "/img"
 
 collections:
 
@@ -30,9 +30,12 @@ collections:
       - label: "Category"
         name: "category"
         widget: "string"
+        required: false
+        default: "Skills"
       - label: "Layout"
         name: "layout"
         widget: "string"
+        default: "skills"
       - label: "Body"
         name: "body"
         widget: "markdown"
