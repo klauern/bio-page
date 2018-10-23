@@ -2,7 +2,7 @@
 date: '2018-06-07T18:52:34-05:00'
 draft: 'false'
 title: DevOps
-img: /img/rawpixel-651373-unsplash.jpg
+img: /rawpixel-658254-unsplash.jpg
 category: Skills
 layout: skills
 ---
