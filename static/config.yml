@@ -4,6 +4,7 @@ backend:
 
 publish_mode: editorial_workflow
 media_folder: "static/img"
+# The template includes /img, so we don't need it at all.
 public_folder: "/"
 
 collections:
