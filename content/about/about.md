@@ -6,15 +6,8 @@ title: "About Me"
 
 Hello and welcome to my personal bragging page! To learn a little about me:
 
-I currently work as a Lead Technical Analyst for [Oshkosh Corporation][1], working on their
-Enterprise Middleware team.  This position has been pretty interesting, giving me a wealth
-of interesting project work and challenging initiatives, such as:
-
-* Docker
-* Kubernetes
-* Ansible
-
-All while working remotely!
+I currently work as a Cloud Engineer at [Zendesk][1], working in Foundation
+Engineering on the Foundation Secure team.
 
 I studied Software Engineering from the University of Wisconsin --
 Platteville, where we dove as deep as assembly and analog electronics
@@ -31,11 +24,11 @@ Rather, it provides me an innumerable set of intangible skills in terms of
 comraderie, teamwork, and the general feeling you get doing something for a
 cause greater than your own.
 
-If that weren't enough, when not working (at home) I am a father and husband,
+If that weren't enough, when not working, I am a busy father and husband,
 raising **four** young boys in between all of the above committments. My
 wife, Katrina is an incredible force in her own right, by being supportive,
 talented, and busy on her own. I can't claim any of my achievements without
 recognizing the incredible effort and support that she has provided me.
 
-[1]: https://www.oshkoshcorp.com/about/index.html
+[1]: https://zendesk.com
 [2]: https://encyclopedia.thefreedictionary.com/Battle+Assembly
