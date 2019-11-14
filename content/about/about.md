@@ -6,8 +6,10 @@ title: "About Me"
 
 Hello and welcome to my personal bragging page! To learn a little about me:
 
-I currently work as a Cloud Engineer at [Zendesk][1], working in Foundation
-Engineering on the Foundation Secure team.
+I currently work as an Engineer at [Zendesk][1], working in Foundation
+Engineering on the Foundation Secure team.  Our team is responsible for
+providing a **secure** base platform that all engineers use to build their
+applications.
 
 I studied Software Engineering from the University of Wisconsin --
 Platteville, where we dove as deep as assembly and analog electronics
