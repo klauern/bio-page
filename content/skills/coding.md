@@ -22,5 +22,5 @@ at least the following languages:
 - [Ruby](https://github.com/search?utf8=%E2%9C%93&q=user%3Aklauern+language%3ARuby&type=Repositories&ref=searchresults)
 
 Anyways, life is short, so this is merely what I have free time to contribute to
-when I'm not otherwise occupied saving the world (Army), my family (4 kids under
-10), or working.
+when I'm not otherwise occupied saving the world (Army), my family (4 kids between
+8-14), or working.

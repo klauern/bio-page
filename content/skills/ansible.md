@@ -7,12 +7,14 @@ Category: "Skills"
 layout: skills
 ---
 
-I would say I spend most of my time working in either Ansible for server management, patching,
-migration of services, etc., and work on writing other internal modules for proprietery systems
-that I'm unfortunately not allowed to share.  I'm a huge fan of [Ansible](http://ansible.com)
-and have been using it in earnest to manage most aspects of my job.  I also am working on
-some internal training, documentation, and evangelism of the tool (and Ansible Tower/AWX) as
-part of my interest in pushing DevOps as a culture and set of practices forward in my company.
+I would say I spend most of my time working in either Ansible for server
+management, patching, migration of services, etc., and work on writing other
+internal modules for proprietery systems that I'm unfortunately not allowed to
+share.  I'm a huge fan of [Ansible](http://ansible.com) and have been using it
+in earnest to manage most aspects of my job.  I also am working on some internal
+training, documentation, and evangelism of the tool (and Ansible Tower/AWX) as
+part of my interest in pushing DevOps as a culture and set of practices forward
+in my company.
 
 Some of the things I've used Ansible for:
 
@@ -32,4 +34,4 @@ Some of the things I've used Ansible for:
   * `oracle_inventory` - to parse out locations of various Oracle-branded `/etc/oraInventory/`-based `XML` files.
 * API transaction migration, management, cleanup
 
-Plus all the /normal/ things you expect someone familiar with Ansbile to be able to do.
+Plus all the /normal/ things you expect someone familiar with Ansible to be able to do.
