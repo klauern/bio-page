@@ -1,7 +1,10 @@
 ---
 title: "Amazon Web Services"
 date: 2019-05-05T07:47:07-05:00
-draft: true
+draft: false
+Img: "AWS-Cloud-alt_light-bg@4x.png"
+Category: "Skills"
+layout: skills
 ---
 
 Amazon Web Services is a giant ecosystem of many services, so I'm not
