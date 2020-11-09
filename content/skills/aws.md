@@ -8,8 +8,8 @@ layout: skills
 ---
 
 Amazon Web Services is a giant ecosystem of many services, so I'm not
-going to claim expertise with the entirety of it.  That said, most of my
-experience thus far is around [IAM][iam], [AWS Organizations][orgs],
+going to claim expertise with the entirety of it.  That said, I have spent a significant
+amount of my time working around [IAM][iam], [AWS Organizations][orgs],
 [Config][config], and [Cloudformation][cfn].  Secondarily, the 'supporting cast'
 of tools includes:
 
