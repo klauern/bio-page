@@ -1,6 +1,7 @@
-baseurl = "https://www.nickklauer.info"
+baseurl = "https://klauer.dev"
 languageCode = "en-us"
 title = "Nick Klauer"
+theme = "klauern-landing-page-hugo"
 [params]
     description = ""
     googleAnalytics = "UA-27148269-1"
